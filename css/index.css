@@ -7,3 +7,10 @@
 h1 {
     margin-right: 10px;
 }
+#c1{
+	max-width: 60%;
+	margin-left: 25%;
+}
+img {
+	max-height: 400px;
+}
